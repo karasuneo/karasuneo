@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karasuneo&count_private=true&theme=vue-dark&show_icons=true&layout=compact&hide=c,php,cmake,tex,hlsl,shaderlab,c%2B%2B,makefile,c,shell,html%23&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karasuneo&count_private=true&theme=vue-dark&show_icons=true&layout=compact&hide=c,php,cmake,tex,hlsl,shaderlab,c%2B%2B,makefile,c%23&langs_count=6" />
 </p>
